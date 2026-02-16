@@ -13,7 +13,7 @@ Extended math utility functions for Go. This is a **private** test repository.
 ## Usage
 
 ```go
-import mathlib "github.com/gaurav-jain/go-mathlib-v2"
+import mathlib "github.com/meGauravJain/go-mathlib-v2"
 
 mathlib.Power(2, 10)    // 1024
 mathlib.GCD(12, 8)      // 4
